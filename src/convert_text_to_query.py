@@ -7,7 +7,6 @@ from langchain_experimental.sql import SQLDatabaseChain
 
 load_dotenv()
 
-
 class ConvertTextToQuery:
     def __init__(self):
 
